@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1a9e2d2d-7972-4154-8c38-ffdc2a7ee720" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/HtmlAnimate.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Contributing.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gulpfile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/fonts/ProximaNova-Semibold.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/fonts/ProximaNova-Semibold.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/fonts/Radical.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/fonts/Radical.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/img/arr.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/img/icons/cross.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/img/icons/fb.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/img/icons/insta.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/img/icons/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/img/icons/menu.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/img/icons/reload.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/img/icons/star.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/img/icons/vk.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/img/lose-heading.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/img/next.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/img/prev.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/img/prize1-mob.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/img/prize1.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/img/prize2-mob.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/img/prize2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/img/prize3-mob.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/img/prize3.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/img/result1-mob.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/img/result1-mob@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/img/result1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/img/result1@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/img/result2-mob.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/img/result2-mob@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/img/result2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/img/result2@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/img/result3-mob.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/img/result3-mob@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/img/result3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/img/result3@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/img/scene-mob.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/img/scene-mob@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/img/scene.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/img/scene@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/img/slide1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/img/slide1@2x.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/img/slide2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/img/slide2@2x.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/img/slide3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/img/slide3@2x.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/img/slide4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/img/slide4@2x.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/img/sonya.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/img/sonya@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/img/win-heading.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/js/modules/chat.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/js/modules/footer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/js/modules/form.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/js/modules/full-page-scroll.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/js/modules/menu.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/js/modules/mobile-height-adjust.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/js/modules/result.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/js/modules/slider.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/js/modules/social.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/js/vendor/simple-scrollspy.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/scss/blocks/animation-screen.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/scss/blocks/btn.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/scss/blocks/chat.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/scss/blocks/disclaimer.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/scss/blocks/form.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/scss/blocks/game.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/scss/blocks/intro.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/scss/blocks/page-header.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/scss/blocks/prizes.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/scss/blocks/result.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/scss/blocks/rules.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/scss/blocks/screen.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/scss/blocks/slider.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/scss/blocks/social-block.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/scss/general/fonts.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/scss/general/mixins.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/scss/general/scaffolding.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/scss/general/variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/scss/style.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/scss/vendor/normalize.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/scss/vendor/swiper.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1pRRuH0hul2oTX4ds9DJwIrKw2s" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="editorconfig.notification" value="null# tab | space" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.stylelint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.stylelint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.stylelint" value="$PROJECT_DIR$/node_modules/stylelint" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1a9e2d2d-7972-4154-8c38-ffdc2a7ee720" name="Default Changelist" comment="" />
+      <created>1615144136918</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1615144136918</updated>
+      <workItem from="1615144143518" duration="2736000" />
+      <workItem from="1615147096008" duration="250000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1419" height="171" key="GridCell.Tab.0.bottom" timestamp="1615147033533">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1419" height="171" key="GridCell.Tab.0.bottom/0.25.1440.875@0.25.1440.875" timestamp="1615147033533" />
+    <state width="1419" height="171" key="GridCell.Tab.0.center" timestamp="1615147033532">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1419" height="171" key="GridCell.Tab.0.center/0.25.1440.875@0.25.1440.875" timestamp="1615147033532" />
+    <state width="1419" height="171" key="GridCell.Tab.0.left" timestamp="1615147033531">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1419" height="171" key="GridCell.Tab.0.left/0.25.1440.875@0.25.1440.875" timestamp="1615147033531" />
+    <state width="1419" height="171" key="GridCell.Tab.0.right" timestamp="1615147033533">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1419" height="171" key="GridCell.Tab.0.right/0.25.1440.875@0.25.1440.875" timestamp="1615147033533" />
+    <state x="548" y="177" key="RollbackChangesDialog" timestamp="1615146987462">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="548" y="177" key="RollbackChangesDialog/0.25.1440.875@0.25.1440.875" timestamp="1615146987462" />
+    <state x="229" y="98" key="SettingsEditor" timestamp="1615145033133">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="229" y="98" key="SettingsEditor/0.25.1440.875@0.25.1440.875" timestamp="1615145033133" />
+  </component>
+</project>
